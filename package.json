@@ -7,7 +7,7 @@
     "build": "rm -rf ./dist && mkdir -p ./dist && zip -r ./dist/build.zip ./ -x \"dist/*\""
   },
   "keywords": ["lambda", "aws"],
-  "author": "",
+  "author": "jsuzuki20120311",
   "license": "MIT",
   "dependencies": {
     "ejs": "~3.1.9"
